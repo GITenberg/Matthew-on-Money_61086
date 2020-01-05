@@ -1,11 +1,16 @@
 _repo: Matthew-on-Money_61086
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61086-h/images/cover.jpg
 creator:
   author:
     agent_name: Keister, Lawrence
     gutenberg_agent_id: '51249'
     url: http://www.gutenberg.org/2009/agents/51249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61086#Matthew-on-Money
 gutenberg_issued: '2020-01-03'
 gutenberg_type: Text
 identifiers:
